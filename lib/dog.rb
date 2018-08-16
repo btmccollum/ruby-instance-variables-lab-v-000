@@ -1,5 +1,5 @@
 class Dog
-  attr_accessor :name, :breed
+  attr_accessor :this_dogs_name, :breed
 end
 
 lassie = Dog.new
